@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Розділ 4. Соціальна складова здоров’я (15 годин)
+# Розділ 4. Соціальна складова здоров’я
 
 <hr>
 <p><b>Зміст розділу:</b></p>
