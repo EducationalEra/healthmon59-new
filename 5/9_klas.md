@@ -7,14 +7,17 @@
 <hr>
 <p><b>Зміст розділу:</b></p>
 <ul type="disc">
-<li><a href="https://healthmon59.ed-era.com/5/zdorovya_ludiny.html">Здоров’я людини</a></li>
-<li><a href="https://healthmon59.ed-era.com/5/fizichna_skladova_zdorovya.html">Фізична складова здоров’я</a></li>
-<li><a href="https://healthmon59.ed-era.com/5/psykhychna_ta_dukhovna_skladovy_zdorovya.html">Психічна і духовна складові здоров’я</a></li>
-<li><a href="https://healthmon59.ed-era.com/5/socialna_skladova_zdorovya.html">Соціальна складова здоров’я</a></li>
-<ul type="circle">
-<li><a href="https://healthmon59.ed-era.com/5/soc_blagopoluchhya.html">Соціальне благополуччя</a></li>
-<li><a href="https://healthmon59.ed-era.com/5/bezpeka_v_pobuty_ta_navk_seredovyschy.html">Сучасний комплекс проблем безпеки</a></li>
-</ul>
+    <li><a href="./zdorovya_ludiny.md">Здоров’я людини</a>
+    </li>
+    <li><a href="./fizichna_skladova_zdorovya.md">Фізична складова здоров’я</a>
+    </li>
+    <li><a href="./psykhychna_ta_dukhovna_skladovy_zdorovya.md">Психічна й духовна складові здоров’я</a></li>
+    <li><a href="./socialna_skladova_zdorovya.md">Соціальна складова здоров’я</a>
+        <ul>
+            <li><a href="./soc_blagopoluchhya.md">Соціальне благополуччя</a></li>
+            <li><a href="./bezpeka_v_pobuty_ta_navk_seredovyschy.md">Сучасний комплекс проблем безпеки</a></li>
+        </ul>
+    </li>
 </ul>
 
 <div class="js-hypercomments-container">
